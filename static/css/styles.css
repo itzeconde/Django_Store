@@ -1,0 +1,14 @@
+h1 {
+    color: rgb(26, 93, 110);
+    text-align: center;
+}
+
+h2 {
+    color: rgb(143, 28, 143);
+    text-align: center;
+}
+p {
+    font-size: 50 px;
+    line-height: 1.5;
+    margin: 10px 0;
+}
